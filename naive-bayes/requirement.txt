@@ -1,0 +1,9 @@
+Build a simple spam email classifier based on Nave Bayes.
+1. Requirement:
+(a) Train the model using data in train.csv with all attributes provided and classify
+the email data in test.csv.
+(b) Output the classification accuracy ( the number of correctly classified emails/the total number of emails)
+2. Things should be included in your report:
+(a) A number indicating the classification accuracy
+(b) Tell me if you can achieve a higher classification accuracy using only some of
+the attributes provided.
