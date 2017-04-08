@@ -1,0 +1,24 @@
+You are required to use linear regression to find the relation between price and sqft living in train.csv, and predict the house price
+based on sqft living in test.csv. Please implement the following three diifferent methods to find the best fitting function:
+1. Gradient Descent
+2. Newton's method
+3. Normal Equation
+After fitting a line to the training data,
+1. You are required to make a scatterplot of price vs sqft living, and plot your fitting line on this scatterplot.
+2. You are required to use your fitting line to predict the house price based on sqft living in test.csv, and compute the RMSE(root-mean-square error) of your prediction.
+
+In your report, you are required to compare the three methods with the help of three
+plots, three fitting functions and three RMSEs.
+
+Gradient Descent
+-0.175816888827
+263.531863245
+261575.033428
+Newton Method
+-49783.1788546
+283.744563843
+260804.577239
+Normal Equation
+-49813.79101208
+283.85970933
+260804.498234
